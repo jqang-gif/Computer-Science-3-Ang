@@ -7,3 +7,5 @@ https://github.com/user-attachments/assets/8d60b5a4-73f6-40df-a312-20d5336b37df
 #Activity 4
 https://github.com/jqang-gif/AngBeryllium-CS3-Portfolio/blob/main/activity4BerylliumAng.py
 )
+
+#Hero RPG Damage Activity
