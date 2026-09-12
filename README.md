@@ -9,3 +9,4 @@ https://github.com/jqang-gif/AngBeryllium-CS3-Portfolio/blob/main/activity4Beryl
 )
 
 #Hero RPG Damage Activity
+https://github.com/jqang-gif/Computer-Science-3-Ang/blob/main/RPGHeroBerylliumAng.py
